@@ -48,7 +48,6 @@ else
         companyName+="$namePart "
     done
     mkdir "$companyName"
-    echo $companyName
 
     echo "Enter your initials:"
     read initials
@@ -81,7 +80,6 @@ else
     sed -i "s/{jobPostTitle}/$jobPostTitle/g" "$initials-cover-letter.txt"
     sed -i "s/{location}/$location/g" "$initials-cover-letter.txt"
     sed -i "s/{roleApplyingFor}/$roleApplyingFor/g" "$initials-cover-letter.txt"
-    yearOfToday
     cd ..
 fi
 
