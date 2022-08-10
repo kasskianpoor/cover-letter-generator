@@ -9,7 +9,7 @@ Personally, I have Ubuntu installed on my PC and I can run this script with no p
 
 Maybe the best way to know if this script is going to run on your computer is trying to run it.
 
-Open your terminal [ctrl+alt+t in ubuntu] and navigate to the folder where the script is located using the cd command (visit this page to learn how to use cd command https://man7.org/linux/man-pages/man1/cd.1p.html).
+Open your terminal [`ctrl+alt+t` in ubuntu] and navigate to the folder where the script is located using the cd command (visit this page to learn how to use cd command https://man7.org/linux/man-pages/man1/cd.1p.html).
 
 Before anything type the commands:
 `which bash`
@@ -33,7 +33,7 @@ Finally now run the script by running:
 
 The script then asks you to "Type the name of your template file".
 If this happened, you know you can run this script on your machine.
-Press `Ctrl-C` to stop the process from running. Now read the next section to learn how you can use this script.
+Press `ctrl+c` to stop the process from running. Now read the next section to learn how you can use this script.
 
 ### How to use this script?
 
