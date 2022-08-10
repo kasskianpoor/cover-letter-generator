@@ -89,3 +89,8 @@ An example could look like:
 `Vancouver, BC`
 
 You can see now that a folder with the name of the company that you were trying to apply for, has appeared in your directory.
+Inside this folder there is .txt file with the name: yourInitial-cover-letter.txt.
+
+If you open it you notice that all the generic texts such as "{companyName}" have been replaced with your answers to the questions about the company you are applying for.
+
+You can repeat the same steps to create more cover-letters like this for other companies.
