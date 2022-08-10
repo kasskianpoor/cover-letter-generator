@@ -1,0 +1,3 @@
+{monthOfToday} {dateOfToday}, {yearOfToday}
+
+I am applying to {companyName}
