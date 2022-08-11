@@ -37,8 +37,8 @@ Press `ctrl+c` to stop the process from running. Now read the next section to le
 
 ### How to use this script?
 
-First, you have to create a template file.
-This file is suggested to be a .txt file that contains the text of your generalized cover-letter.
+First, you have to create a template file. <br />
+This file is suggested to be a .txt file that contains the text of your generalized cover-letter. <br />
 The text is just a cover-letter but for it not being directed to any specific company, you should replace:
 
 1. The name of the company with the text "{companyName}".
