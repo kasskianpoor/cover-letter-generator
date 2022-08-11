@@ -53,42 +53,41 @@ Just like that, you are set for the next step.
 
 You can execute the script by typing `./make-cover-letter.sh`
 
-Then the script will ask you for the template file name.
-For example, you can see in the repository that I have added a t.txt file. Let's assume that file is our template.
+Then the script will ask you for the template file name. For example, you can see in the repository that I have added a t.txt file. Let's assume that file is our template.
 
-So after you run the script you will be asked to
-`Type the name of your template file: `
-You can repond with:
+So after you run the script you will be asked to: <br />
+`Type the name of your template file: ` <br />
+You can repond with: <br />
 `t.txt`
 
-Now, you will see the question:
-`What is the name of the company you are applying to?`
-For example, you can answer with:
+Now, you will see the question: <br />
+`What is the name of the company you are applying to?` <br />
+For example, you can answer with: <br />
 `Example Inc`
 
-The script then asks about your initials to prepent to the file name it creates.
-`Enter your initials:`
-You can respond for example with:
+The script then asks about your initials to prepent to the file name it creates. <br />
+`Enter your initials:` <br />
+You can respond for example with: <br />
 `KK`
 
 Then similarly, after being asked for year, month, and day you can type the year (ex. `2022`), month (ex. `August`), and day (ex. `10`)
 
-Then you will be asked to enter the job post title:
-`what is the job post title?`
-You can type in the exact job post title, such as:
-`Junior Software Developer`
+Then you will be asked to enter the job post title: <br />
+`what is the job post title?` <br />
+You can type in the exact job post title, such as: <br />
+`Junior Software Developer` 
 
-Then you can type the role that you wish to obtain after being asked:
-`What is the role you are applying for?`
-An example could look like:
-`Software Developer`
+Then you can type the role that you wish to obtain after being asked: <br />
+`What is the role you are applying for?` <br />
+An example could look like: <br />
+`Software Developer` 
 
-Then the last questions is about the location of the company:
-`Where is the company located?`
-An example could look like:
-`Vancouver, BC`
+Then the last questions is about the location of the company: <br />
+`Where is the company located?` <br />
+An example could look like: <br />
+`Vancouver, BC` 
 
-You can see now that a folder with the name of the company that you were trying to apply for, has appeared in your directory.
+You can see now that a folder with the name of the company that you were trying to apply for, has appeared in your directory. <br />
 Inside this folder there is .txt file with the name: yourInitial-cover-letter.txt.
 
 If you open it you notice that all the generic texts such as "{companyName}" have been replaced with your answers to the questions about the company you are applying for.
